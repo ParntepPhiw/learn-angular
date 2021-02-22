@@ -1,0 +1,29 @@
+main {
+    background-color: orange;
+    border: solid 2px magenta;
+    margin: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 80%;
+    color: white;
+}
+
+.whitebutton {
+    background-color: white;
+    color: tomato;
+    margin-right: 10px;
+    padding: 10px 20px;
+    font-style: bold;
+    width: 150px;
+    border-radius: 5px;
+}
+
+.orangebutton {
+    background-color: tomato;
+    color: white;
+    margin-right: 10px;
+    padding: 10px 20px;
+    font-style: bold;
+    width: 150px;
+    border-radius: 5px;
+}

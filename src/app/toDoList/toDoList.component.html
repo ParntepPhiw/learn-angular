@@ -1,0 +1,17 @@
+<main>
+    <div>
+        <h2>ToDoList Component (Homework 2 & 4)</h2>
+    </div>
+    
+    <h3>My Tasks Today</h3>
+    <ul>
+        <li *ngFor = "let task of tasks">
+            <p>{{ task }} <span><button (click)="deleteTask(tasks.indexOf(task))">Delete</button></span></p> 
+        </li>
+    </ul>
+
+    <div>
+        Task: <input [(ngModel)]="toDo" /> <button (click)="addTask()">Add</button>
+    </div>
+    
+</main>

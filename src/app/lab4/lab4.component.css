@@ -1,0 +1,17 @@
+main {
+    background-color: rgb(255, 223, 223);
+    border: solid 2px black;
+    margin: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 100%;
+    
+}
+
+.number-even {
+    color: green;
+}
+
+.number-odd {
+    color:red;
+}

@@ -1,0 +1,16 @@
+main {
+    background-color: lightgray;
+    border: solid 2px blue;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: -25px;
+    width: 80%;
+    
+}
+
+#searchbar {
+    width: 100%;
+    padding: 15px 0px;
+    margin: auto;
+    border-radius: 5px;
+}

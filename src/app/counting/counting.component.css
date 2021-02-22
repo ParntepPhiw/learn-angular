@@ -1,0 +1,25 @@
+h2 {
+    color: blue;
+}
+
+h3 {
+    color: green;
+}
+
+main {
+    background-color: lightcyan;
+    border: solid 2px black;
+    margin: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 100%;
+    
+}
+
+button {
+    padding: 10px;
+    background-color: darkslategray;
+    color: lightskyblue;
+    border-radius: 5px;
+    margin: 5px 5px;
+}
